@@ -74,3 +74,10 @@ TextureImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115707
+  packageName: 'Creature: Cave Troll'
+  packageVersion: 1.0
+  assetPath: Assets/cave_troll/textures/troll_hair_glossiness.tga
+  uploadId: 242350
